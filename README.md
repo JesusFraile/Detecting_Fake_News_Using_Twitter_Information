@@ -1,2 +1,2 @@
-# Detecting_Fake_News_Using_Twitter_Information
-Repositorio donde se encuentra publicado el TFM que desarrollé para el Máster Universitario de Tecnologías del Lenguaje en la Universidad Nacional de Eduación a Distancia UNED.
+# Detecting Fake News Using Twitter Information
+Repository where the TFM I developed for the Master's Degree in Language Technologies at the Universidad Nacional de Eduación a Distancia UNED is published.
